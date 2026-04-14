@@ -1,0 +1,22 @@
+# Visual Studio 相关
+.vs/
+*.aps
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.dev
+*.layout
+
+# 编译产物
+*.o
+*.exe
+x64/
+*.obj
+
+# 系统/IDE冗余文件
+.DS_Store
+Thumbs.db
+
+
+#「添加.gitignore，屏蔽 IDE / 编译冗余文件」
